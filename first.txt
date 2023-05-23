@@ -7,3 +7,7 @@ second line 22/05/2023
 Welcome
 
 Wel
+
+After stagged
+
+before push to github
